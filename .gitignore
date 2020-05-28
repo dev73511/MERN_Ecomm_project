@@ -1,4 +1,4 @@
 projbackend/node_module
 projfrontend/node_module
-projbackend/env
-projfrontend/env
+projbackend/.env
+projfrontend/.env
