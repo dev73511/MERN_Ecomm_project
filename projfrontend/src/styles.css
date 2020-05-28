@@ -1,0 +1,92 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.nav_bg {
+  background: linear-gradient(90deg, #20007e, #e61eb6);
+}
+
+.navbar-brand {
+  letter-spacing: 2px;
+  font-size: 26px;
+}
+
+.sign_up_in_btn {
+  box-shadow: 0 10px 30px 0 rgba(21, 10, 82, .35);
+  border-radius: 25px;
+  padding: 1px 15px;
+  background: linear-gradient(270deg, #2e19a7, #ae0ee9);
+}
+
+.sec_bg {
+  background: url(./images/feature-bg-1.png);
+  background-size: cover;
+}
+
+.cardStyle {
+  box-shadow: 0 10px 30px 0 rgba(21, 10, 82, .2);
+}
+
+.card_title {
+  border: none;
+  background: linear-gradient(90deg, #20007e, #e61eb6);
+  color: #fff;
+  font-size: 21px;
+  font-weight: 400;
+  box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+}
+
+.linerbg {
+  background-image: linear-gradient(160deg, #fff 53%, #fbdcf4);
+}
+
+.product_img img {
+  border-radius: 22px;
+}
+
+.addtocart {
+  background: linear-gradient(270deg, #2e19a7, #ae0ee9);
+  color: #fff;
+  border-radius: 22px;
+}
+
+.footer_bg {
+  background-image: linear-gradient(90deg, #20007e, #e61eb6);
+  box-shadow: 0 10px 10px 0 rgba(2, 2, 2, .25);
+}
+
+.gradiant_btn {
+  background-image: linear-gradient(92deg, #ae0ee9, #2e19a7);
+  box-shadow: 0 10px 30px 0 rgba(21, 10, 82, .35);
+  color: #fff;
+  padding: 15px 80px;
+  border-radius: 30px;
+}
+
+.bg_gradiant_btn {
+  background-image: linear-gradient(92deg, #ae0ee9, #2e19a7);
+  box-shadow: 0 10px 30px 0 rgba(21, 10, 82, .35);
+  color: #fff
+}
+
+.braintree-sheet {
+  border: 0;
+  box-shadow: 0 10px 30px 0 rgba(21, 10, 82, .2);
+}
+
+.box_shadow {
+  box-shadow: 0 10px 30px 0 rgba(21, 10, 82, .2);
+
+}
