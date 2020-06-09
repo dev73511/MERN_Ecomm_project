@@ -7,3 +7,7 @@ Home Page
 
 Cart Page
 ![Cart Page](https://github.com/dev73511/MERN_Ecomm_project/blob/master/cart.png)
+
+
+Admin Panel
+![Admin Panel](https://github.com/dev73511/MERN_Ecomm_project/blob/master/adminPanel.png)
